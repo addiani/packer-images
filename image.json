@@ -15,7 +15,6 @@
       "inline": [
           "sudo yum install httpd -y",
           "sudo yum install php  -y",
-          "sudo yum touch /tmp/testfile",
           "sudo useradd bob"
       ]
     },
